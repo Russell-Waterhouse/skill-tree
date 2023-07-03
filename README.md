@@ -20,22 +20,23 @@ Below is my current skill tree:
 ```mermaid
 mindmap
     root((Skills))
-        languages(Programming Languages)
-            [Java]
-            [C]
-            [Python]
-            [Ruby]
-            [Haskell]
-        frameworks(Programming Frameworks/SDK's)
-            [Android SDK]
-            [Rails]
-            [React]
-        devops(DevOps)
+        (Programming)
+            (Programming Languages)
+                [Java]
+                [C]
+                [Python]
+                [Ruby]
+                [Haskell]
+            (Programming Frameworks/SDK's)
+                [Android SDK]
+                [Rails]
+                [React]
+        (DevOps)
             [Docker]
                 [Multi-stage builds]
                 [Docker Compose]
             [aws]
-                [aws Cloud Development Kit (CDK)]
+                [aws Cloud Development Kit CDK]
                 [S3]
                 [Lambda]
                 [Cloud Formation]
