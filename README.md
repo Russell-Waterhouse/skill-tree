@@ -21,36 +21,57 @@ Below is my current skill tree:
 mindmap
     root((Skills))
         (Programming)
-            (Programming Languages)
+            (Languages)
                 [Java]
                 [C]
+                    [Parallel Computing]
                 [Python]
                 [Ruby]
                 [Haskell]
+                [HTML]
+                [CSS]
+                [LaTeX]
             (Programming Frameworks/SDK's)
                 [Android SDK]
                 [Rails]
+                [SideKiq]
                 [Django REST Framework]
                 [Java Spring]
+                [BootStrapJS]
             (Programming Tools)
                 [Vim/Neovim]
                     [Motions]
                     [Commands]
                     ))Configuring into a full IDE((
+                [VS Code]
+                    [Features]
+                    [Keyboard Shortcuts]
+                ["JetBrains IDE's (IntelliJ, Pycharm, CLion, Etc.)"]
+                    [Features]
+                    [Keyboard Shortcuts]
+                ["GitHub/GitLab/BitBucket"]
             (Programming Techniques)
                 ["Test Driven Development (TDD)"]
                 [Performance Testing with JMeter]
+                ["Unit Testing"]
         (DevOps)
             (Docker)
                 [Multi-stage builds]
                 [Docker Compose]
-            (aws)
-                [aws Cloud Development Kit CDK]
+            (AWS)
+                ["AWS Cloud Development Kit (CDK)"]
                 [S3]
                 [Lambda]
                 [Cloud Formation]
                 [EC2]
                 [Linux Server Administration]
+        (CyberSecurity)
+            (Enumeration)
+                ["RustScan/nmap"]
+                ["GoBuster/DirBuster"]
+            (Exploitation)
+                [MetaSploit]
+
 
 ```
 
