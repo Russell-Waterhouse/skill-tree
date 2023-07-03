@@ -30,12 +30,15 @@ mindmap
             (Programming Frameworks/SDK's)
                 [Android SDK]
                 [Rails]
-                [React]
+                [Django REST Framework]
+                [Java Spring]
             (Programming Tools)
                 [Vim/Neovim]
                     [Motions]
                     [Commands]
                     ))Configuring into a full IDE((
+            (Programming Techniques)
+                ["Test Driven Development (TDD)"]
         (DevOps)
             (Docker)
                 [Multi-stage builds]
