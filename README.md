@@ -1,4 +1,5 @@
 # Skill Tree
+## Warning, this is a work in progress, and I haven't had enough time to add all my skills
 
 
 Below is the legend of the skill tree
