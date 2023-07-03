@@ -22,10 +22,10 @@ mindmap
     root((Skills))
         languages(Programming Languages)
             [Java]
-                [Java Basics]
             [C]
             [Python]
             [Ruby]
+            [Haskell]
         frameworks(Programming Frameworks/SDK's)
             [Android SDK]
             [Rails]
@@ -34,5 +34,16 @@ mindmap
             [Docker]
                 [Multi-stage builds]
                 [Docker Compose]
+            [aws]
+                [aws Cloud Development Kit (CDK)]
+                [S3]
+                [Lambda]
+                [Cloud Formation]
+                [EC2]
+                [Linux Server Administration]
+        (business)
+            [Marketing]
+            [Customer Development]
+
 ```
 
