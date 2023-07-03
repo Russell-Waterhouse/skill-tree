@@ -39,6 +39,7 @@ mindmap
                     ))Configuring into a full IDE((
             (Programming Techniques)
                 ["Test Driven Development (TDD)"]
+                [Performance Testing with JMeter]
         (DevOps)
             (Docker)
                 [Multi-stage builds]
@@ -50,9 +51,11 @@ mindmap
                 [Cloud Formation]
                 [EC2]
                 [Linux Server Administration]
-        (business)
-            [Marketing]
-            [Customer Development]
 
 ```
+
+## About the Skills
+Making the claim that I have this or that skill is difficult to quantify.   
+I've only included a skill if I would feel comfortable starting a 
+new project using that skill and being reasonably efficient immediately. 
 
