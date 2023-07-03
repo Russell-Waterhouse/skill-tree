@@ -31,11 +31,16 @@ mindmap
                 [Android SDK]
                 [Rails]
                 [React]
+            (Programming Tools)
+                [Vim/Neovim]
+                    [Motions]
+                    [Commands]
+                    ))Configuring into a full IDE((
         (DevOps)
-            [Docker]
+            (Docker)
                 [Multi-stage builds]
                 [Docker Compose]
-            [aws]
+            (aws)
                 [aws Cloud Development Kit CDK]
                 [S3]
                 [Lambda]
