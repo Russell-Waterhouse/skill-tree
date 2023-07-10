@@ -39,6 +39,7 @@ mindmap
                 [Django REST Framework]
                 [Java Spring]
                 [BootStrapJS]
+                ))React((
             (Programming Tools)
                 [Vim/Neovim]
                     [Motions]
@@ -62,8 +63,11 @@ mindmap
             (AWS)
                 ["AWS Cloud Development Kit (CDK)"]
                 [S3]
+                [Step Functions]
                 [Lambda]
                 [Cloud Formation]
+                [SQS]
+                [CloudWatch]
                 [EC2]
                 [Linux Server Administration]
         (CyberSecurity)
