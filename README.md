@@ -16,6 +16,7 @@ mindmap
                 [Ruby]
                 [Haskell]
                 [HTML]
+                [Kotlin]
                 [CSS]
                 [LaTeX]
             (Programming Frameworks/SDK's)
