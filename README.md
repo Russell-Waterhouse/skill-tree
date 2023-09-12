@@ -25,13 +25,10 @@ mindmap
                 [SideKiq]
                 [Django REST Framework]
                 [Java Spring]
-                [BootStrapJS]
-                ))Svelte((
             (Programming Tools)
                 [Vim/Neovim]
                     [Motions]
                     [Commands]
-                    ))Configuring into a full IDE((
                 [VS Code]
                     [Features]
                     [Keyboard Shortcuts]
@@ -39,7 +36,6 @@ mindmap
                     [Features]
                     [Keyboard Shortcuts]
                 ["GitHub/GitLab/BitBucket"]
-                ))Dvorak Keyboard((
             (Programming Techniques)
                 ["Test Driven Development (TDD)"]
                 [Performance Testing with JMeter]
