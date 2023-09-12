@@ -58,6 +58,7 @@ mindmap
             (Enumeration)
                 ["RustScan/nmap"]
                 ["GoBuster/DirBuster"]
+                ["BurpSuite"]
             (Exploitation)
                 [MetaSploit]
 
